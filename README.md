@@ -64,12 +64,34 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-LightCyber was a cybersecurity company that pioneered **Behavioral Attack Detection** — behavior-based profiling of network traffic and endpoint activity to find attackers already operating inside an enterprise network, without relying on malware signatures. Its **LightCyber Magna** platform (Magna Detector, Magna Probe, Magna Master, Magna Pathfinder, Magna Cloud Expert System) served user and entity behavior analytics (UEBA), network traffic analysis, security visibility, and PCI compliance use cases.
+> **Acquired or rebranded.** This company was acquired, merged or renamed. Its API, if it still exists, is offered under another name. This profile is kept as a historical record and is not maintained or rated.
 
-**Acquired.** Palo Alto Networks completed its acquisition of LightCyber for **$105 million in cash on February 28, 2017**, and engineered LightCyber's automated behavioral analytics into the Palo Alto Networks security platform. The independent LightCyber brand, product line, and developer surface no longer exist.
+LightCyber was an Israeli-American cybersecurity company that pioneered a category it called Behavioral Attack Detection — using behavior-based profiling of network traffic and endpoint activity, rather than malware signatures or technical artifacts, to detect attackers already operating inside an enterprise network. Its LightCyber Magna platform shipped as a set of appliances and services (Magna Detector, Magna Probe, Magna Master, Magna Pathfinder, and the Magna Cloud Expert System) and was positioned for user and entity behavior analytics (UEBA), network traffic analysis, security visibility, and PCI compliance. The company was backed by Battery Ventures, Glilot Capital Partners, Amplify Partners, and angel investor Shlomo Kramer. Palo Alto Networks announced the completed acquisition of LightCyber for $105 million in cash on February 28, 2017, and engineered its automated behavioral analytics into the Palo Alto Networks security platform. The independent LightCyber brand, product line, and web presence no longer exist; the lightcyber.com domain has since lapsed from Palo Alto Networks' control and now resolves to an unrelated third-party site. This profile is retained in the API Evangelist network as an acquired-company lead and carries no live API artifacts.
 
-**Domain warning.** `lightcyber.com` responds HTTP 200 but is **no longer controlled by LightCyber or Palo Alto Networks**. As of 2026-07-19 it serves an unrelated Indonesian online gambling site. This profile deliberately emits **no `Website` pointer** and records **no domain-security probe**, because the domain no longer represents this company.
+**Areas:** Company · Security · Cybersecurity · Behavioral Analytics · Network Traffic Analysis · UEBA · Threat Detection · Acquired
 
-Backed by: battery-ventures, glilot-capital-partners, amplify-partners (plus angel investor Shlomo Kramer)
+## LightCyber on APIs.io (historical record)
 
-This profile is retained in the API Evangelist network as an acquired-company lead and carries no live API artifacts.
+Everything profiled for LightCyber is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/lightcyber/](https://apis.io/providers/lightcyber/)** — or go straight to one of the APIs or properties below.
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.archive.org/)
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as acquired or rebranded, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for LightCyber: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/lightcyber/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
